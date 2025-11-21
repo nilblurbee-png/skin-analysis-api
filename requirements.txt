@@ -6,4 +6,5 @@ opencv-python
 numpy
 tensorflow-cpu
 Pillow
+tf-keras
 requests
