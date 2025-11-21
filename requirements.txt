@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+deepface
+opencv-python
+numpy
+tensorflow-cpu
+Pillow
+requests
